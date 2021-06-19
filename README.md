@@ -27,3 +27,11 @@ then freeze it using command- pip3 freeze > requirements.txt
 # Installation steps:
   All the steps are same as above.
   
+# Convert into sketch
+This assignment was about converting image into sketch.
+  
+# Installation steps:
+  All the steps are same as above.
+  
+
+  
