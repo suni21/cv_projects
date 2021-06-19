@@ -33,5 +33,9 @@ This assignment was about converting image into sketch.
 # Installation steps:
   All the steps are same as above.
   
+# Face detection and blurring
+ This assignment was about detcting the faces in the image and then blurring it.
 
-  
+# Installation steps:
+  All the steps are same as above.
+ 
