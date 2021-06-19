@@ -19,3 +19,11 @@ then freeze it using command- pip3 freeze > requirements.txt
 5. Save the file
 
 6. Then finally use add,commit,push.
+
+
+# Add watermake
+  This assignment was about adding watermake 
+  
+# Installation steps:
+  All the steps are same as above.
+  
